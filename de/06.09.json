@@ -6,6 +6,7 @@
 				{
 					"name": "Kinematics",
 					"complexity": "average",
+					"free": "0",
 					"interest": "great",
 					"bool": true
 
