@@ -34,10 +34,6 @@ msgstr "AMP Contributor Summit 2019 Applications Now Open"
 msgid "AMP Framework"
 msgstr "AMP Framework"
 
-#: /views/partials/footer.j2:23
-msgid "AMP Framework"
-msgstr "AMP Framework 06/01/222"
-
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
 msgid "AMP HTML Specification"
 msgstr "AMP HTML Specification"
